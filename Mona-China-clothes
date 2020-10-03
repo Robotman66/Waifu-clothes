@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Mi primera pagina web</title>
+	<link href="css/estilos.css" rel="stylesheet" type="text/css" />	
+</head>
+<body>
+	<div class="container">
+		<div class="header">
+			<h1>Herramientas Rocha</h1>
+			<img src="img/logo.png" width="100" alt="" title="" />
+		</div>
+		<nav>
+			<ul>
+				<li><a href="#">Categorías</a></li>
+				<li><a href="#">Ofertas</a></li>
+				<li><a href="#">Mis compras</a></li>
+				<li><a href="#">Favoritos</a></li>
+				<li><a href="#">Carrito</a></li>
+			</ul>
+		</nav>
+		
+		<div class="aside">
+			<div class="article">
+				<h1>Herramienta del dia</h1>
+				<br>
+				<h1>Acha</h1>
+				<p>
+					<img src="img/acha.jpg" width="300"  height="200" alt="" title="" />
+					<br>
+					<h1>$747.08 </h1>
+					<ul>
+						<li>NOTA: mango de madera de nogal de 900 mm y peso de la cabeza: 1250 g.</li>
+						<li>Cabeza de hacha hecha de acero al carbono C45 endurecido con caída forjada, enfriada en baño de aceite, luego tratada con calor a 53-56 HRC en la escala de dureza Rockwell para mayor durabilidad.</li>
+						<li>Excelente equilibrio y relación de peso para mayor precisión y máxima potencia para cada oscilación.</li>
+						<li>El mango de nogal auténtico proporciona mayor durabilidad y potencia de absorción de impactos.</li>
+						<li>Mango diseñado para un agarre excelente para un manejo más fácil y más cómodo.</li>
+					</ul>
+				</p>
+			</div>
+		</div>
+		
+		<div class="section">
+			<div class="article">
+				<h1>Motosierra MS 250 Stihl</h1>
+				<br/>
+				<p>			
+					<img src="img/moto.jpg" width="300"  height="200" alt="" title="" />
+					<br>
+					<h1>$6,100.00*</h1>
+					etalles: Motosierra compacta de gran potencia. Excelente relación peso/potencia.§ especialmente adecuada para la tala de árboles pequeños y para construir con madera. Adecuada para cortar leña. Sistema stihl ematic: este sistema reduce el consumo de aceite adhesivo de la cadena hasta un 50%.Se compone de la espada ematic, la cadena oilomatic y una bomba de aceite de caudal regulable. Con estos componentes, el aceite de la cadena llega sin pérdidas allí donde realmente hace falta. Mando unificado: todas las funciones importantes como arranque (tanto el arranque en frío como el arranque en caliente), marcha y parada se controlan con una sola mano. Esto aumenta la comodidad y la seguridad para el usuario. Sistema antivibración: puntos de amortiguación exactamente calculados, que reducen las vibraciones del motor y...
+				</p>
+			</div>
+		</div>
+		
+		<div class="section">
+			<div class="article">
+				<h1>Kit de Herramientas con Aislamiento, 11 Piezas, Desarmadores Phillips & Planos, Pinzas, Pelacables</h1>
+				<br/>
+				<p>
+					<img src="img/d" width="300"  height="200" alt="" title="" />
+					<br>
+					<h1>$4,082.51*</h1>
+					El TK-110INS es un juego de herramientas aislantes de 11 piezas fabricado según los estándares IEC 60900 para entornos de trabajo peligrosos. 
+					Las herramientas se prueban a 10000VCA y se clasifican para un uso en vivo de 1000VCA.
+				</p>
+			</div>
+		</div>
+		
+		<div class="footer">
+			<p>Raul Eduardo Ramirez Reyes</p>
+		</div>
+	</div>
+</body>
+</html>
